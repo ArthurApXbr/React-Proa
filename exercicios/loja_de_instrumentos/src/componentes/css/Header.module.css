@@ -1,0 +1,22 @@
+header {
+  height: 200px;
+  background-size: cover;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  padding: 30px 50px;
+}
+
+nav {
+  background-color: white;
+  text-align: right;
+}
+
+nav ul li a {
+  color: black;
+}
+
+nav ul li {
+  display: inline;
+  margin-left: 20px;
+}
