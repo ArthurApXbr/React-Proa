@@ -1,5 +1,6 @@
-header {
+.topo {
   height: 200px;
+  background-image: url('../../assets/imagens/GuitarrasHeader.png');
   background-size: cover;
   display: flex;
   justify-content: flex-end;
@@ -12,11 +13,19 @@ nav {
   text-align: right;
 }
 
-nav ul li a {
-  color: black;
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
 }
 
-nav ul li {
-  display: inline;
-  margin-left: 20px;
+li {
+  display: inline-block;
+  margin-left: 15px;
+}
+
+li a {
+  text-decoration: none;
+  padding: 8px 12px;
+  color: black;
 }

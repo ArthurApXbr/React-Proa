@@ -1,0 +1,22 @@
+.sobre {
+  display: flex;
+  background-color: #c30d0d;
+  color: white;
+  padding: 30px;
+}
+
+.sobre .texto {
+  flex: 1;
+  padding: 20px;
+  background-color: #c27858;
+}
+
+.sobre .imagem {
+  flex: 1;
+  text-align: right;
+}
+
+.sobre img {
+  width: 95%;
+  border-radius: 4px;
+}

@@ -1,0 +1,19 @@
+.endereco {
+  display: flex;
+  background-color: #b34700;
+  padding: 30px;
+  color: white;
+}
+
+.mapa img {
+  width: 100%;
+  max-width: 900px;
+  border-radius: 5px;
+}
+
+.textoEndereco {
+  flex: 1;
+  margin-left: 20px;
+  background-color: #ed9874;
+  padding: 15px;
+}

@@ -1,4 +1,4 @@
-
+ 
 import Styles from './css/Header.module.css'
 import Viagens from '../assets/imagens/viagens.jpg'
 import Lupa from '../assets/imagens/lupa.png'
