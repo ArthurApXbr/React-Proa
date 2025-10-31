@@ -13,7 +13,7 @@ function Contato() {
       <label>Entre com o seu e-mail:</label>
       <p>Digite seu email aqui...</p>
 
-      <a>Escreva sua mensagem...</a>
+      <a>Faça seu pedido aqui...</a>
 
       <button>Enviar</button>
     </div>
